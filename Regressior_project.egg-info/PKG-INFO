@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Regressior-project
+Version: 0.0.1
+Author: sumit
+Author-email: sumitme752@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: Flask
+Requires-Dist: scikit-learn
+Requires-Dist: Seaborn

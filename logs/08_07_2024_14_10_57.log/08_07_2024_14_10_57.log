@@ -1,0 +1,40 @@
+[ 2024-08-07 14:10:57,908 ] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[ 2024-08-07 14:10:59,986 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-07 14:10:59,991 ] 97 werkzeug - INFO -  * Debugger PIN: 145-940-363
+[ 2024-08-07 14:11:00,089 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_spectral_py.py', reloading
+[ 2024-08-07 14:11:00,118 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_short_time_fft.py', reloading
+[ 2024-08-07 14:11:00,138 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_wavelets.py', reloading
+[ 2024-08-07 14:11:00,154 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_peak_finding.py', reloading
+[ 2024-08-07 14:11:00,182 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\signal\\_czt.py', reloading
+[ 2024-08-07 14:11:00,198 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\__init__.py', reloading
+[ 2024-08-07 14:11:00,219 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_base.py', reloading
+[ 2024-08-07 14:11:00,237 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_csr.py', reloading
+[ 2024-08-07 14:11:00,251 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_csc.py', reloading
+[ 2024-08-07 14:11:00,266 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_lil.py', reloading
+[ 2024-08-07 14:11:00,282 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_dok.py', reloading
+[ 2024-08-07 14:11:00,305 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_coo.py', reloading
+[ 2024-08-07 14:11:00,324 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_dia.py', reloading
+[ 2024-08-07 14:11:00,343 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_bsr.py', reloading
+[ 2024-08-07 14:11:00,371 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_construct.py', reloading
+[ 2024-08-07 14:11:00,388 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_extract.py', reloading
+[ 2024-08-07 14:11:00,402 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\sparse\\_matrix_io.py', reloading
+[ 2024-08-07 14:11:00,417 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\__init__.py', reloading
+[ 2024-08-07 14:11:00,437 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_kdtree.py', reloading
+[ 2024-08-07 14:11:00,478 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\spatial\\_plotutils.py', reloading
+[ 2024-08-07 14:11:00,504 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\special\\__init__.py', reloading
+[ 2024-08-07 14:11:00,547 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\special\\_basic.py', reloading
+[ 2024-08-07 14:11:00,584 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\special\\_sf_error.py', reloading
+[ 2024-08-07 14:11:00,598 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\special\\_logsumexp.py', reloading
+[ 2024-08-07 14:11:00,611 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\special\\_spfun_stats.py', reloading
+[ 2024-08-07 14:11:00,625 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\special\\_ellip_harm.py', reloading
+[ 2024-08-07 14:11:00,640 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\special\\_lambertw.py', reloading
+[ 2024-08-07 14:11:00,657 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\special\\_spherical_bessel.py', reloading
+[ 2024-08-07 14:11:00,674 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\__init__.py', reloading
+[ 2024-08-07 14:11:00,763 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_stats_py.py', reloading
+[ 2024-08-07 14:11:00,804 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\distributions.py', reloading
+[ 2024-08-07 14:11:00,873 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_continuous_distns.py', reloading
+[ 2024-08-07 14:11:00,944 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_discrete_distns.py', reloading
+[ 2024-08-07 14:11:00,963 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_morestats.py', reloading
+[ 2024-08-07 14:11:00,989 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_multicomp.py', reloading
+[ 2024-08-07 14:11:01,008 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_binned_statistic.py', reloading
+[ 2024-08-07 14:11:01,029 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\sumit\\anaconda3\\Lib\\site-packages\\scipy\\stats\\_multivariate.py', reloading
